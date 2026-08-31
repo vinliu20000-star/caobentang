@@ -1,0 +1,1 @@
+{"name":"草本堂店內打卡","short_name":"草本堂打卡","description":"店內動態 QR 打卡顯示器","start_url":"/caobentang/qr/","scope":"/caobentang/qr/","display":"standalone","orientation":"any","background_color":"#f0f8f2","theme_color":"#27864e","icons":[{"src":"/caobentang/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
